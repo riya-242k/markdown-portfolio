@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+*Programming languages
+  * Java
+  * Python
+  * Apex
+  * C
+  * C++
+*Design frameworks
+  *Angular
+  *React
